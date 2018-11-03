@@ -2,11 +2,11 @@
 Example of use of Google Colaboratory
 
 # To edit a GitHub notebook directly in collaboratory
-1. Change 
+1. Change the first part: `https://github.com/` of the GitHub notebook visualization link: 
 ```
 https://github.com/user/repo/blob/master/file.ipynb 
 ```
-by
+by: `https://colab.research.google.com/github/`, so that the colaboratory edit link look like this one:
 ```
 https://colab.research.google.com/github/user/repo/blob/master/file.ipynb 
 ```
