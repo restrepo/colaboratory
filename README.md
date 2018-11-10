@@ -1,6 +1,6 @@
 # Colaboratory
 ## How to use it
-Upload a jupyter notebook into Google Drive and try to open it. Choose "Open with colaboratory" to open the file in Gogle Drive. The first time may be is necessary to install the [extension]((https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo?hl=en). In Google Drive settings, choose Manage Apps and check the "Use by Dafault" Option of Colaboratory
+Upload a jupyter notebook into Google Drive and try to open it. Choose "Open with colaboratory" to open the file in Gogle Drive. The first time may be is necessary to install the [extension](https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo?hl=en). In Google Drive settings, choose Manage Apps and check the "Use by Dafault" Option of Colaboratory
 
 ## To edit a GitHub notebook directly in collaboratory
 1. Change the first part: `https://github.com/` of the GitHub notebook visualization link: 
