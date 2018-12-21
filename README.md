@@ -22,3 +22,11 @@ To save back the notebook into GitHub, use: `File → Save a copy in GitHub`
 2. Copy and paste the contents of an empty Python 3 notebook: https://raw.githubusercontent.com/restrepo/colaboratory/master/blank.json
 3. Make the commit
 
+## To use `matplotlib` default style
+Colaboratory change the default style of `matplotlib`. To recover the defaul style use:
+```python
+import matplotlib.style
+import matplotlib as mpl
+mpl.style.use('default') # or 'classic'
+```
+Check [Style reference](https://matplotlib.org/gallery/style_sheets/style_sheets_reference.html)
