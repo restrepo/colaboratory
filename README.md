@@ -30,3 +30,7 @@ import matplotlib as mpl
 mpl.style.use('default') # or 'classic'
 ```
 Check [Style reference](https://matplotlib.org/gallery/style_sheets/style_sheets_reference.html)
+
+## To connect to your local jupyter runtiume
+
+See https://research.google.com/colaboratory/local-runtimes.html
